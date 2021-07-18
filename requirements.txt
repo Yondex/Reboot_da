@@ -1,0 +1,11 @@
+gensim==4.0.1
+tqdm==4.59.0
+pandas==1.2.3
+pymystem3==0.2.0
+requests==2.25.1
+Flask==2.0.1
+matplotlib==3.4.1
+nltk==3.6.2
+beautifulsoup4==4.9.3
+fastapi==0.66.0
+scikit_learn==0.24.2
